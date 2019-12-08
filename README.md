@@ -8,7 +8,7 @@ Which model tracks the actual values better over time?
 
 The model for predicting price using closing prices tracks better the values over time
 
-![table](https://github.com/salomonysmayel/Deep_Learning_Homework/blob/master/image1.png "image1")
+![table](https://github.com/salomonysmayel/Deep_Learning_Homework/blob/master/Image1.png "Image1")
 
 ![table](https://github.com/salomonysmayel/Deep_Learning_Homework/blob/master/image2.png "image2")
 
