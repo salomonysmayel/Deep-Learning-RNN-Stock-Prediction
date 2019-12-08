@@ -6,7 +6,7 @@ The model for predicting price using closing prices had the lower loss mean squa
 
 Which model tracks the actual values better over time?
 
-The model for predicting price using closing prices tracks better the values over time
+The model for predicting price using closing prices tracks better the values over time, as can be seen in the graphs
 
 ![table](https://github.com/salomonysmayel/Deep_Learning_Homework/blob/master/Image1.png "Image1")
 
