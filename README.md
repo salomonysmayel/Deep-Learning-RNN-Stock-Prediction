@@ -8,6 +8,10 @@ Which model tracks the actual values better over time?
 
 The model for predicting price using closing prices tracks better the values over time
 
+![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/bars.png "bars")
+
+![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/bars.png "bars")
+
 Which window size works best for the model?
 
 For both models a window of 1 results in lower values for loss function, hence works best for the models
