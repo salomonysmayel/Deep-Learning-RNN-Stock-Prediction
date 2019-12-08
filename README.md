@@ -10,10 +10,12 @@ The model for predicting price using closing prices tracks better the values ove
 
 Which window size works best for the model?
 
-0.2016 window = 1
-0.2095 window = 2
-0.2709 window = 10
+For both models a window of 1 results in lower values for loss function, hence works best for the models
 
-0.0363 window = 1
-0.0389 window = 2
-       window = 10
+loss = 0.2016 / window = 1
+loss = 0.2095 / window = 2
+loss = 0.2709 / window = 10
+
+loss = 0.0363 / window = 1
+loss = 0.0389 / window = 2
+loss = 0.1026 / window = 10
