@@ -8,9 +8,11 @@ Which model tracks the actual values better over time?
 
 The model for predicting price using closing prices tracks better the values over time
 
-![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/bars.png "bars")
+![table](https://github.com/salomonysmayel/Deep_Learning_Homework
+/blob/master/bars.png "image1")
 
-![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/bars.png "bars")
+![table](https://github.com/salomonysmayel/Deep_Learning_Homework
+/blob/master/bars.png "image2")
 
 Which window size works best for the model?
 
