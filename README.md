@@ -20,6 +20,7 @@ The model for predicting price using closing prices tracks better the values ove
 
 For both models a window of 1 results in lower values for loss function, hence works best for the models
 
+### Greed and fear model loss vs window
 
 loss = 0.2016 / window = 1
 
@@ -27,6 +28,7 @@ loss = 0.2095 / window = 2
 
 loss = 0.2709 / window = 10
 
+### closing prices model loss vs window
 
 loss = 0.0363 / window = 1
 
